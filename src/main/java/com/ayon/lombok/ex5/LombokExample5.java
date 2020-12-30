@@ -6,14 +6,10 @@ import lombok.Getter;
 import lombok.Setter;
 
 /*
-
 @RequiredArgsConstructor, generates a constructor for all final fields, with parameter order same as field order
 @NoArgsConstructor creates an empty constructor.
 @AllArgsConstructor creates a constructor for all fields
-
 */
-
-
 @Builder
 @AllArgsConstructor
 @Getter

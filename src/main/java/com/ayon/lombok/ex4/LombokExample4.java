@@ -10,8 +10,6 @@ import lombok.ToString;
 /*
 Just read the class, added a nice to string method and a Equals and Hashcode method
 */
-
-
 @NoArgsConstructor
 @AllArgsConstructor
 @Getter
